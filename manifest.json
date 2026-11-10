@@ -1,1 +1,21 @@
 
+{
+  "name": "Kilometer Kerja",
+  "short_name": "KM Kerja",
+  "description": "Aplikasi pencatatan kilometer perjalanan kerja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f2f5f9",
+  "theme_color": "#164e83",
+  "icons": [
+    {
+      "src": "./icons/motor.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
+
